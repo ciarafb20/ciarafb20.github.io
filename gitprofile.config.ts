@@ -83,20 +83,12 @@ const CONFIG = {
       'https://github.com/ciarafb20/ciarafb20.github.io/raw/main/Blanco%2C%20Ciara_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Gel Electrophoresis
+    'Cell Culture Experiments'
+    'Google Suite'
+    'QuickBooks'
+    'Microsoft Office',
   ],
   experiences: [
     {
@@ -124,16 +116,10 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University, Stanislaus',
+      degree: 'Expected B.S. in Biological Sciences',
+      from: '2021',
+      to: '2026',
     },
   ],
   publications: [
