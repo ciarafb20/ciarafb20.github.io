@@ -84,9 +84,12 @@ const CONFIG = {
   },
   skills: [
     'PCR',
-    'Gel Electrophoresis
-    'Pipetting'
+    'Gel Electrophoresis',
+    'Pipetting',
     'Cell Culture',
+    'Google Suite',
+    'QuickBooks',
+    'Microsoft Office',
   ],
   experiences: [
     {
