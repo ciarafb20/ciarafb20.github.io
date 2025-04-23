@@ -85,8 +85,6 @@ const CONFIG = {
   skills: [
     'PCR',
     'Gel Electrophoresis
-    'Cell Culture Experiments'
-    'Google Suite'
     'QuickBooks'
     'Microsoft Office',
   ],
