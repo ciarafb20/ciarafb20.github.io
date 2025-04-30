@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'BIOL 4650 Final Presentation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Independent research project on the variation in dissolved oxygen levels in freshwater rivers.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ciarafb20/ciarafb20.github.io/raw/main/BIOL%204650%20Final%20Presentation.png',
+          link: 'https://github.com/ciarafb20/ciarafb20.github.io/raw/main/Project%20Presentation_Blanco%2C%20Ciara.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'CHEM 1112 Final Presentation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Partnered research project on identyfying two different cations in an unknown mixture.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/ciarafb20/ciarafb20.github.io/raw/main/CHEM%201112%20Final%20Presentation.png',
+          link: 'https://github.com/ciarafb20/ciarafb20.github.io/raw/main/Quantitative%20Analysis%20of%20Unknown%20Cations.pdf',
         },
       ],
     },
